@@ -1,2 +1,5 @@
 # mcfc
-a normal food review website
+
+"A normal food review website."
+
+Perpetually a WIP.
