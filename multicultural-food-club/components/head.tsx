@@ -10,7 +10,6 @@ export default function Head() {
           <li><a href='./reviews'>Reviews</a></li>
           <li><a href='./restaurants'>Restaurants</a></li>
           <li><a href='./members'>Members</a></li>
-          <li><a href='./newsletter'>Newsletter</a></li>
           <li><a href='./contact'>Contact</a></li>
           <li><a href='./about'>About Us</a></li>
           <li>Search</li>
