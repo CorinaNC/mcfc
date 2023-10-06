@@ -6,9 +6,12 @@ export default function Login() {
     return (
         <React.Fragment>
             <title>Login Page</title>
-            <Head />
-            <main>
-            </main>
+            <div>
+                <body>
+                <Head />
+                <LoginForm />
+                </body>
+            </div>
         </React.Fragment>
     )
 }
