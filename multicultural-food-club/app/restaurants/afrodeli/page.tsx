@@ -7,7 +7,7 @@ export default function About() {
             <Head />
             <div>
                 <h1>Afro Deli</h1>
-                <iframe width="600" height="450" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJA0QhW0Ets1IRNP8Kas5fdBY&key=AIzaSyA8TjgXV4ZjwmrgIS134ONdfVwQoWCdLSQ"></iframe>
+                <iframe width="600" height="450" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJA0QhW0Ets1IRNP8Kas5fdBY&key="></iframe>
             </div>
         </React.Fragment>
     )
