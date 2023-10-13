@@ -14,7 +14,7 @@ export default function Home() {
         <h2>Welcome to the Multicultural Food Club website!</h2>
         <div>
           <h3>About Us</h3>
-          <p>We love food and we exploit the University of Minnesota - Twin Cities for funds to get free food because they exploit us with tuition.</p>
+          <p>We love food!</p>
         </div>
         <Footer />
         </body>
