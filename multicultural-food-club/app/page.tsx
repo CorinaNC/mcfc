@@ -1,11 +1,12 @@
 import Image from 'next/image'
 import styles from './page.module.css'
 import Head from '../components/head'
-import Footer from './foot'
+import Footer from '../components/foot'
 
 export default function Home() {
   return (
     <html lang='en'>
+      
       <div>
         <body>
         <Head />

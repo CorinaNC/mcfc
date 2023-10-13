@@ -4,7 +4,9 @@ export default function Footer() {
     return (
         <React.Fragment>
             <footer>
-                <h2>Footer Section</h2>
+                <h1>Footer Section</h1>
+            <li><a href='./members'>Members</a></li>
+            <li><a href='./contact'>Contact Us</a></li>
             </footer>
         </React.Fragment>
     )
