@@ -1,0 +1,23 @@
+body {
+    background: white;
+}
+
+.data {
+    display: inline-grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 4rem;
+}
+
+.home-information {
+    align-self: center;
+    margin-left: 3rem;
+    text-align: left;
+}
+
+.title {
+    font-size: 65;
+}
+
+.logo {
+    align-self: center;    
+}  
